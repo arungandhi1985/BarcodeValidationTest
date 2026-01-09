@@ -220,7 +220,7 @@ If you're short on time, prioritise in this order:
 
 ## 📦 Submission
 
-Either: create a PR on this repo, or send us a zip file containing your source code (place this inside the /src folder)
+Either: create a PR on this repo, or send us a zip file containing your source code (place all code inside a /src folder off the repo root)
 
 Include a `README` with:
   - Setup and run instructions
