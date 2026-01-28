@@ -135,14 +135,14 @@ Calculation: serial `99999999` → weighted sum = 352 → 11 - (352 % 11) = 11 -
 
 ### Medium Priority
 
-3. **More comprehensive tests** - Component tests with React Testing Library, integration tests
+4. **More comprehensive tests** - Component tests with React Testing Library, integration tests
 
 ### Nice to Have
 
-7. **Persistence option** - LocalStorage toggle for keeping history across sessions
-8. **Batch validation** - Paste multiple barcodes at once
-9. **Export history** - Download validation results as CSV
-10. **Dark mode** - Theme toggle
+5. **Persistence option** - LocalStorage toggle for keeping history across sessions
+6. **Batch validation** - Paste multiple barcodes at once
+7. **Export history** - Download validation results as CSV
+8. **Dark mode** - Theme toggle
 
 ### What I Prioritised
 
